@@ -1,0 +1,7 @@
+F:/project/CProject/cmake-build-debug/CMakeFiles/CProject.dir
+F:/project/CProject/cmake-build-debug/CMakeFiles/test1.dir
+F:/project/CProject/cmake-build-debug/CMakeFiles/main.dir
+F:/project/CProject/cmake-build-debug/CMakeFiles/test2.dir
+F:/project/CProject/cmake-build-debug/CMakeFiles/int_arr_max.dir
+F:/project/CProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/project/CProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
